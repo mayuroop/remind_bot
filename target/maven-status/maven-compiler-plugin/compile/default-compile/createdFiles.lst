@@ -1,5 +1,2 @@
-com\example\reminderbot\ReminderBot.class
-com\example\reminderbot\DBHelper.class
-com\example\reminderbot\ReminderService.class
+com\example\reminderbot\BotMain$R.class
 com\example\reminderbot\BotMain.class
-com\example\reminderbot\Reminder.class
